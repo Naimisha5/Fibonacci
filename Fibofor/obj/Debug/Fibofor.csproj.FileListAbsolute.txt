@@ -1,0 +1,7 @@
+C:\Users\Naimisha.G\source\repos\Fibofor\Fibofor\bin\Debug\Fibofor.exe.config
+C:\Users\Naimisha.G\source\repos\Fibofor\Fibofor\bin\Debug\Fibofor.exe
+C:\Users\Naimisha.G\source\repos\Fibofor\Fibofor\bin\Debug\Fibofor.pdb
+C:\Users\Naimisha.G\source\repos\Fibofor\Fibofor\obj\Debug\Fibofor.csprojAssemblyReference.cache
+C:\Users\Naimisha.G\source\repos\Fibofor\Fibofor\obj\Debug\Fibofor.csproj.CoreCompileInputs.cache
+C:\Users\Naimisha.G\source\repos\Fibofor\Fibofor\obj\Debug\Fibofor.exe
+C:\Users\Naimisha.G\source\repos\Fibofor\Fibofor\obj\Debug\Fibofor.pdb
